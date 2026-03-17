@@ -9,4 +9,5 @@ Homework2
 
 
 Homework3
-homework3.jpg
+
+![hw3](homework3.jpg)
