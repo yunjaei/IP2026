@@ -12,3 +12,11 @@ https://youtu.be/SglnWJ5D-s4
 Homework3
 
 ![hw3](homework3.jpg)
+
+Homework4
+
+https://youtu.be/fdytQM7SsR8
+
+Homework5
+
+https://youtu.be/8ROckdDS7cc
